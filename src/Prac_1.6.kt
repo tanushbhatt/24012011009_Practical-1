@@ -11,6 +11,7 @@ fun div(a: Int, b: Int): Double{
     return a.toDouble() / b
 }
 
+
 fun main(){
     println("Enter number 1: ")
     val num1 = readln().toInt()

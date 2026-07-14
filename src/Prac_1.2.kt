@@ -1,6 +1,7 @@
 fun main(){
 //    val intNum = 5
 //    val floatNum : Float = intNum.toFloat()
+//    var floatNum : Float = intNum.toFloat()
 //    println(intNum)
 //    println(floatNum)
     val i  = 10000

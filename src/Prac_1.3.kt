@@ -27,4 +27,5 @@ fun main() {
     println("Batch: $batch")
     println("College Name: $collegeName")
     println("University Name: $universityName")
+
 }

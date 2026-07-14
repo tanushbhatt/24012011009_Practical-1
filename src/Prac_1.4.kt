@@ -6,4 +6,5 @@ fun main(){
         println("$a is Even")
     else
         println("$a is Odd")
+
 }

@@ -7,8 +7,8 @@ fun factorial(n: Int): Long{
     }
 }
 
-fun main(){
 
+fun main(){
     print("Enter a Number: ")
     val num = readln().toInt()
 
